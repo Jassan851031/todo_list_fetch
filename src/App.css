@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.form-control{
+  background-color: beige;
+}
+
+.list-group-item{
+  background-color: rgba(89, 192, 89, 0.37);
+}
+
+.text-center{
+  color: blue;
+  padding-top: 50px;
+}
